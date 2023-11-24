@@ -9,9 +9,7 @@ My name is Lourdes Guaymas, I am 18 years old, I want to know more about the wor
 
 ###
 <h2 align="left">About me</h2>
-
 ###
-
 <p align="left"><br>  📚 I'm currently studying at a technical school specializing in programming<br>⚡Fun fact; Videogames🎮 Music🎶 Tv Series 💻Swimming 🏊 Voleyball🏐<br>✨I have the ability to learn quickly and adapt to new challenges. <br>🌍Interested in learning new languages <br> 🌍Learned language: Basic English and Spanish <br>📚 I'm currently learning HTMl / CSS / JS / JAVA / PHP / MYSQL / C++ / PYTHON  ...<br>📒 I have worked on various projects where I have applied my knowledge and gained experience in teamwork.<br>📑I stand out in my ability to solve problems and focus on code quality.<br>🎯 Goals: I am looking for opportunities to grow professionally and collaborate on exciting projects....<br> 💻I am an enthusiastic and creative developer, with skills in web development and object-oriented programming</p>
 
 
