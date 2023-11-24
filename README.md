@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>  📚 I'm currently studying at a technical school specializing in programming<br>  📚Interested in learning new languages <br>📚 I'm currently learning HTMl / CSS / JS / JAVA / PHP / MYSQL / C++ / PYTHON  ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since ...<br>  📚 I'm currently studying at a technical school specializing in programming<br>⚡Fun fact; Videogames🎮 Music🎶 Tv Series 💻Swimming 🏊 Voleyball🏐 <br> 📚Interested in learning new languages <br>📚 I'm currently learning HTMl / CSS / JS / JAVA / PHP / MYSQL / C++ / PYTHON  ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
